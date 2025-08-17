@@ -1,0 +1,35 @@
+# Available Locations - Based on Obsidian Hills world
+# Internal/Near Locations
+Silver Creek Mine (Cold Storage)
+Heritage Gardens
+Perimeter - North Section
+Perimeter - East Section  
+Perimeter - South Section
+Perimeter - West Section
+Fire Tower Area
+Maintenance Complex
+Desert Bloom Farm (1.5 miles SE)
+Abandoned Homestead (3 miles NE)
+
+# Short Range Missions (5-15 miles)
+Desert Vista Ranch (8 miles N)
+Coyote Springs Truck Stop (12 miles E)
+Pine Creek Forest Service Station (15 miles W)
+
+# Medium Range (15-25 miles)
+Ridgeview Mobile Home Park (18 miles NW)
+Pine Creek Ranch (22 miles S)
+Ridgeline Copper Mine (25 miles SW)
+
+# Long Range Operations (25+ miles) 
+Highway 50 Junction (30 miles NE)
+Silver Creek - County Seat (45 miles NW)
+Reno-Carson City Corridor (120 miles W)
+
+# Unmarked Locations
+Unknown Desert Settlement
+Crashed Vehicle Site
+Abandoned Military Checkpoint
+Remote Radio Tower
+Emergency Supply Cache
+Uncharted Mining Operation
