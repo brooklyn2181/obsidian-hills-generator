@@ -1,31 +1,107 @@
-# Complications - Additional problems that make missions harder
-Radio contact lost completely with Obsidian Hills
-Team member separated from group during chaos
-Vehicle damage requires field repairs immediately
-Weather conditions deteriorating faster than predicted
-Ammunition running dangerously low (less than 20 rounds)
-Medical supplies needed urgently for team injury
-Hostile force much larger than intelligence suggested
-Multiple threat types converging on team position
-Primary escape route compromised or completely blocked
-Critical mission equipment dropped/lost during retreat
-Team member showing early infection symptoms
-Moral dilemma requires immediate life-or-death decision
-Innocent civilian survivors caught in crossfire
-Mission intelligence proves completely outdated or false
-Enemy using advanced military tactics and coordination
-Environmental hazard spreading rapidly toward team
-Intercepted communications suggest betrayal within Obsidian Hills
+# Complications - External problems that make missions harder (no internal team dynamics)
+Radio contact lost completely with Obsidian Hills base station
+Vehicle damage requires field repairs immediately upon arrival
+Weather conditions deteriorating faster than predicted schedule
+Ammunition running dangerously low during extended engagement
+Hostile force much larger than intelligence reports suggested
+Multiple threat types converging on team position simultaneously
+Primary escape route compromised or completely blocked by debris
+Critical mission equipment dropped during hasty retreat from threats
+Mission intelligence proves completely outdated or deliberately false
+Enemy forces using advanced military tactics and coordination
+Environmental hazard spreading rapidly toward mission area
 Resource requirements double what mission planning anticipated
 Time window for completion closing much faster than expected
-Secondary objective directly conflicts with primary mission safety
+Supply cache already discovered and looted by unknown group
+Mission area under active surveillance by hostile watchers
+Critical intelligence discovered that changes entire mission scope
+Extraction point compromised requiring alternate route through danger
 Local expert guidance proves unreliable or deliberately misleading
-Equipment compatibility issues prevent proper functionality
-Team member seriously injured, mobility severely compromised
-Opposition clearly has inside information about team plans
-Competing mission priorities force impossible choice between objectives
-Supply cache already looted by unknown group
-Mission area under surveillance by hostile watchers
-Team leader incapacitated, command structure unclear
-Critical intelligence discovered that changes everything about mission
-Extraction point compromised, alternate route required through danger zone
+Equipment compatibility issues prevent proper functionality in field
+Opposition clearly has inside information about operational plans
+Communication equipment experiencing cascading system failures
+Fuel consumption exceeding estimates due to difficult terrain
+Mission area recently contaminated by unknown chemical spill
+Structural collapse blocks primary access route to objective
+Electronic systems malfunctioning due to extreme temperature conditions
+Mission site occupied by force triple the size originally reported
+Essential supply drop missed target coordinates by significant margin
+Local water sources testing positive for dangerous contamination levels
+Mission area experiencing seismic activity affecting structural integrity
+Competing survivor group also targeting same resource location
+Vehicle breakdown occurs at most tactically vulnerable position
+Mission equipment specifications incompatible with environmental conditions
+Intelligence reports three hours outdated upon arrival at site
+Primary infiltration route blocked by recent bridge collapse
+Mission timing conflicts with detected infected migration pattern
+Transportation fuel reserves depleting at accelerated rate
+Mission objective location shows evidence of recent hostile occupation
+Critical mission phase coincides with extreme weather event approach
+Mission area water sources completely dried up since intelligence gathering
+Essential mission component suffers complete mechanical failure
+Local population reports area under informal quarantine restrictions
+Mission extraction timeline compressed by external time pressure
+Supply convoy delayed indefinitely due to hostile activity
+Mission area terrain unstable due to recent geological events
+Electronic equipment failing due to unexpected electromagnetic interference
+Mission site recently hit by flash flooding affecting accessibility
+Local wildlife behavior increasingly aggressive toward human activity
+Mission area shows fresh signs of heavy raider presence
+Critical mission tool breaks during initial use with no replacement
+Mission objective site occupied by unknown but heavily armed group
+Local weather patterns indicate severe sandstorm approaching area
+Mission area under dispute between two hostile survivor factions
+Essential mission supplies contaminated during transport to site
+Mission location experiencing power grid failures affecting security systems
+Local terrain proving much more difficult to navigate than anticipated
+Mission area recently subjected to controlled burn affecting visibility
+Critical infrastructure at site damaged by recent conflict
+Mission objective moved from original location without notification
+Local survivor community demanding tribute for safe passage
+Mission area access roads completely washed out by recent storms
+Essential equipment experiencing temperature-related performance degradation
+Mission site showing signs of recent chemical weapons deployment
+Local predator population drawn to area by recent activity
+Mission area cellular and radio towers damaged by unknown causes
+Critical mission phase requires traversing recently mined territory
+Mission objective site power systems offline affecting planned approach
+Local air quality dangerous due to nearby industrial fire
+Mission area experiencing rolling blackouts affecting security measures
+Essential mission component damaged during equipment transport
+Mission site access controlled by unknown but organized group
+Local temperature extremes exceeding equipment operational parameters
+Mission area recently evacuated due to environmental contamination
+Critical mission intelligence source goes dark without explanation
+Mission objective location flooded due to broken water infrastructure
+Local survivor groups engaging in active warfare near mission site
+Mission area experiencing complete telecommunications blackout
+Essential supplies spoiled due to broken cold storage chain
+Mission site showing evidence of recent government or military presence
+Local road infrastructure collapsed requiring extended detour through danger
+Mission area experiencing toxic gas leak from damaged industrial facility
+Critical mission equipment requires power source unavailable at location
+Mission objective site recently fortified beyond intelligence parameters
+Local weather conditions preventing air support or extraction
+Mission area access blocked by refugee convoy fleeing unknown danger
+Essential mission component requires specialized tool unavailable in field
+Mission site recently subjected to biological contamination event
+Local population hostile to outsiders due to recent negative encounters
+Mission area experiencing complete infrastructure failure affecting all systems
+Critical mission timeline disrupted by discovery of unexploded ordnance
+Mission objective location showing signs of recent violent conflict
+Local environmental conditions causing accelerated equipment deterioration
+Mission area recently declared off-limits by unknown authority
+Essential mission supplies expired or degraded during storage
+Mission site access requires traversing territory controlled by hostile cannibals
+Local communication networks compromised by enemy electronic warfare
+Mission area experiencing toxic algae bloom in water sources
+Critical mission equipment incompatible with local power grid specifications
+Mission objective site recently abandoned leaving dangerous booby traps
+Local survivor community reporting infectious disease outbreak in region
+Mission area terrain significantly altered by recent natural disaster
+Essential mission component requires calibration impossible under field conditions
+Mission site showing evidence of recent nerve agent or chemical attack
+Local weather radar indicates severe electrical storm approaching mission area
+Mission area access roads completely blocked by vehicle graveyard
+Critical mission intelligence contradicted by fresh evidence at site
+Mission objective location recently hit by coordinated artillery bombardment
