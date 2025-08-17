@@ -1,0 +1,21 @@
+# Mission Objectives - Choose what the team is trying to accomplish
+Supply Run
+Rescue Mission
+Scouting Patrol
+Diplomatic Contact
+Equipment Recovery
+Medical Evacuation
+Resource Gathering
+Intelligence Gathering
+Perimeter Security
+Trade Mission
+Recruitment Drive
+Infrastructure Repair
+Fuel Acquisition
+Communication Setup
+Defensive Fortification
+Survivor Relocation
+Area Clearance
+Emergency Response
+Salvage Operation
+Reconnaissance Mission
