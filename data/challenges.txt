@@ -1,31 +1,109 @@
-# Primary Challenges - Main obstacles during missions
-Large infected pack (8-15 individuals)
-Small infected group (3-5 individuals)
-Single infected stalker following the team
-Raider ambush squad with military weapons
-Hostile survivor community defending territory
-Armed territorial locals shooting on sight
-Equipment malfunction - vehicle breakdown
-Equipment malfunction - radio failure
-Equipment malfunction - weapons jamming
-Severe weather system moving in fast
-Desert sandstorm reducing visibility to zero
-Flash flood warning from mountain runoff
-Aggressive coyote pack (15+ animals)
-Venomous rattlesnake den blocking access
-Structural collapse - building/bridge unsafe
-Contaminated water source (chemical/biological)
-Booby traps left by previous occupants
-Fuel shortage discovered mid-mission
-Medical emergency - team member injured
-Navigation equipment complete failure
-Competing survivor group spotted in area
-Fresh evidence of recent violence/massacre
-Unstable building structure ready to collapse
-Road completely blocked by debris/vehicles
-Mission timeline accelerated - time pressure doubled
-Superior enemy force with heavy weapons
-Underground tunnel system blocks direct access
-Electrical hazards from damaged power lines
-Toxic gas leak from industrial facility
-Wild animal territorial behavior (bears/mountain lions)
+# Primary Challenges - External obstacles and threats during missions
+Large infected pack (8-15 individuals) actively hunting in mission area
+Small infected group (3-5 individuals) blocking primary access route
+Single infected stalker following team with unusual persistence
+Raider ambush squad equipped with military grade weapons
+Hostile survivor community defending territory with lethal force
+Armed territorial locals shooting on sight without warning
+Vehicle breakdown requiring immediate field repairs
+Radio communication system experiencing complete failure
+Weapons jamming repeatedly during critical engagement
+Severe weather system moving in faster than predicted
+Desert sandstorm reducing visibility to near zero
+Flash flood warning from mountain runoff threatening area
+Aggressive coyote pack (15+ animals) exhibiting territorial behavior
+Venomous rattlesnake den blocking only safe access route
+Structural collapse makes building or bridge unsafe to cross
+Contaminated water source testing positive for biological agents
+Booby traps left by previous occupants throughout facility
+Fuel shortage discovered at critical mission phase
+Navigation equipment experiencing complete system failure
+Competing survivor group spotted operating in same area
+Fresh evidence of recent massacre discovered at site
+Unstable building structure showing signs of imminent collapse
+Road completely blocked by debris and abandoned vehicles
+Mission timeline accelerated creating dangerous time pressure
+Superior enemy force equipped with heavy military weapons
+Underground tunnel system blocks all direct access routes
+Electrical hazards from damaged power lines throughout area
+Toxic gas leak from damaged industrial facility
+Wild animal territorial behavior from bears or mountain lions
+Massive infected horde (50+ individuals) migrating through region
+Infected exhibiting unusual pack coordination and tactical behavior
+Single highly aggressive infected showing enhanced speed and strength
+Raider convoy with armored vehicles patrolling target area
+Hostile militia group with sniper positions overlooking objective
+Survivor community using child soldiers as sentries
+Armed guards patrolling with trained attack dogs
+Vehicle fuel system contaminated with unknown substance
+Communication equipment disabled by electromagnetic interference
+Mission critical tools experiencing temperature related failure
+Extreme heat wave exceeding safe operational parameters
+Sudden temperature drop threatening hypothermia conditions
+Dust devil formation creating dangerous visibility conditions
+Wildfire spreading rapidly toward mission objective area
+Earthquake activity causing ground instability
+Aggressive wolf pack exhibiting coordinated hunting behavior
+Infected bats roosting in required access tunnels
+Poisonous spider infestation throughout target building
+Toxic plant contamination causing severe skin reactions
+Chemical spill creating hazardous atmosphere in enclosed spaces
+Radiation leak detected from unknown source in facility
+Unexploded ordnance discovered throughout operational area
+Sinkhole formation blocking primary evacuation route
+Cliff face erosion making climbing route extremely dangerous
+Bridge weight limit exceeded by mission equipment load
+Infected trapped in basement level creating acoustic threat
+Raider scouts using motorcycles for rapid harassment attacks
+Hostile faction employing improvised explosive devices
+Survivor group using psychological warfare tactics
+Armed opposition with night vision equipment advantage
+Vehicle suspension damaged on rough terrain approach
+Radio frequency jammed by unknown electronic warfare
+Essential equipment stolen during overnight security breach
+Record breaking heat causing equipment overheating failures
+Ice storm making all surfaces dangerously slippery
+Sandstorm lasting longer than weather predictions indicated
+Lightning strikes creating ongoing fire hazard
+Mudslide blocking mountain access road completely
+Infected mountain lions exhibiting rabid behavior patterns
+Swarm of aggressive wasps defending territory near objective
+Snake pit discovered directly beneath mission target
+Toxic mushroom spores causing respiratory distress
+Industrial chemical leak creating corrosive atmosphere
+Nuclear facility showing signs of containment breach
+Landmine field discovered surrounding target location
+Quicksand formation along required river crossing
+Avalanche danger elevated to critical levels
+Infected birds attacking in coordinated murder formation
+Raider faction using stolen military vehicles and tactics
+Hostile group employing trained sniper teams
+Survivor militia with automatic weapons and body armor
+Armed cultists willing to fight to death for territory
+Vehicle transmission failure during steep mountain descent
+Communication relay tower destroyed by enemy sabotage
+Mission equipment incompatible with environmental conditions
+Extreme wind conditions exceeding safe operational limits
+Hailstorm with golf ball sized ice damaging equipment
+Fog bank reducing visibility to less than ten feet
+Tornado formation detected approaching mission area
+Blizzard conditions creating whiteout visibility
+Infected showing signs of rage virus enhancement
+Pack of feral dogs exhibiting coordinated pack hunting
+Poisonous snake species unknown to regional identification
+Toxic plant pollen causing severe allergic reactions
+Chemical weapon residue detected throughout target facility
+Biological contamination requiring full hazmat protocols
+Explosive materials discovered in unstable condition
+Structural fire spreading throughout target building
+Water level rising rapidly due to dam failure upstream
+Rock slide threatening to block only escape route
+Infected showing enhanced night vision capabilities
+Raider gang using captured police and military equipment
+Hostile community employing child labor as human shields
+Survivor faction with advanced fortification and defensive positions
+Armed group using stolen helicopter for aerial reconnaissance
+Vehicle electrical system failure disabling all onboard systems
+GPS navigation system experiencing total satellite blackout
+Critical mission components damaged during transport phase
+Temperature fluctuations exceeding equipment operational specifications
